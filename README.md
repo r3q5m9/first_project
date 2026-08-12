@@ -1,2 +1,2 @@
 # first_project
-Test repository for work in GitHubo
+Test repository for work in GitHub
